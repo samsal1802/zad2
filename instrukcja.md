@@ -87,5 +87,11 @@ Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składn
 ## Podstawa składni
 Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki opis w języku polskim.
 
+## Definowanie nagłówków
+W tym celu używamy znaku kratki
+
+Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
+
+![Nagłówki w Markdown](nagłówki.jpg)
 
 
