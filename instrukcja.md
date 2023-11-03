@@ -55,3 +55,24 @@ Przykład kodu XML – fragment dokumentu SVG (Scalar Vector Graphics)
 ```
 ![Wygenerowana grafika w xml](XML.png)
 
+W tym przypadku mamy np. znacznik np. <circle> opisujący parametry koła i który może być właściwie zinterpretowany przez dedykowaną aplikację (np. przeglądarki www).
+
+Jako ciekawostkę można podać fakt, że również pakiet MS Office wykorzystuje format XML do przechowywania informacji o dodatkowych parametrach formatowania danych. Na przykład pliki z rozszerzeniem docx, to nic innego jak spakowane algorytmem zip katalogi z plikami xml.
+
+Przykład rozpakowania zawartości pliku test.docx poleceniem: **unzip**
+
+$unzip -l test.docx 
+
+Archive: test.docx
+
+|Length|Date|Time|Name|
+|:-----|:---|:---|:---|
+|573|2022-03-20|08:55|_rels/.rels|
+|731|2022-03-20|08:55|docProps/core.xml
+|508|2022-03-20|08:55|docProps/app.xml
+|531|2022-03-20|08:55|word/_rels/document.xml.rels
+|1288|2022-03-20|08:55|word/document.xml
+|2429|2022-03-20|08:55|word/styles.xml
+|853|2022-03-20|08:55|word/fontTable.xml
+|257|2022-03-20|08:55|word/settings.xml
+|1374|2022-03-20|08:55|[Content_Types].xml
