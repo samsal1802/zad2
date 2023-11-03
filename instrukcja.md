@@ -127,3 +127,13 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 ### Tworzenie spisu treści na podstawie nagłówków
 
 ![Tworzenie spisu treści w markdown](Tworzenie%20spisu%20treści.jpg)
+
+## Edytory dedykowane
+Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w dowolnym edytorze tekstowym. Aczkolwiek istnieje wiele dedykowanych narzędzi
+1.	marktext - https://github.com/marktext/marktext
+
+2.	https://hackmd.io/ online editor
+
+3.	Visual Studio Code z wtyczką „markdown preview”
+
+![Edytor dedykowany](edytor%20dedykowany.jpg)
