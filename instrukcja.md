@@ -53,3 +53,5 @@ Przykład kodu XML – fragment dokumentu SVG (Scalar Vector Graphics)
 </body>
 </html>
 ```
+![Wygenerowana grafika w xml](XML.png)
+
