@@ -109,10 +109,15 @@ Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kr
 ![Tabele w Markdown](tabele.png)
 Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
 
-### Odnośnik do zasobów
+### Odnośniki do zasobów
 ```markdown
 [odnośnik do zasobów](www.gazeta.pl) 
 [odnośnik do pliku](LICENSE.md) 
 [odnośnik do kolejnego zasobu][1]
 [1]	: http://google.com
+```
+### Obrazki
+```markdown
+![alt text](https://server.com/images/icon48.png "Logo 1") – obrazek z zasobów internetowych
+![](logo.png) – obraz z lokalnych zasobów
 ```
