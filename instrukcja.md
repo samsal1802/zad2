@@ -94,4 +94,8 @@ Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 
 ![Nagłówki w Markdown](nagłówki.jpg)
 
+## Definowanie list
 
+![Listy w Markdown](listy.jpg)
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką. Listy nienumerowane definiujemy znakami: *,+,-
