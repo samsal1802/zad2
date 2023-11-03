@@ -2,11 +2,11 @@
 
 ## Wstęp
 Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania dodatkowych informacji umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można wspomnieć o:
-1.	html – służącym do opisu struktury informacji zawartych na stronach internetowych,
+1.	**html** – służącym do opisu struktury informacji zawartych na stronach internetowych,
 
-2.	Tex (Latex) – poznany na zajęciach język do „profesjonalnego” składania tekstów,
+2.	**Tex** (Latex) – poznany na zajęciach język do „profesjonalnego” składania tekstów,
 
-3.	XML (Extensible Markup Language) - uniwersalnym języku znaczników przeznaczonym do reprezentowania różnych danych w ustrukturalizowany sposób.
+3.	**XML** (Extensible Markup Language) - uniwersalnym języku znaczników przeznaczonym do reprezentowania różnych danych w ustrukturalizowany sposób.
 
 Przykład kodu html i jego interpretacja w przeglądarce:
 
@@ -76,3 +76,12 @@ Archive: test.docx
 |853|2022-03-20|08:55|word/fontTable.xml
 |257|2022-03-20|08:55|word/settings.xml
 |1374|2022-03-20|08:55|[Content_Types].xml
+
+Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składnią i dlatego do ich edycji wymagają najczęściej dedykowanych narzędzi w postaci specjalizowanych edytorów. By wyeliminować powyższą niedogodność powstał **Markdown** - uproszczony język znaczników służący do formatowania dokumentów tekstowych (bez konieczności używania specjalizowanych narzędzi). Dokumenty w tym formacie można bardzo łatwo konwertować do wielu innych formatów: np. html, pdf, ps (postscript), epub, xml i wiele innych. Format ten jest powszechnie używany do tworzenia plików README.md (w projektach open source) i powszechnie obsługiwany przez serwery git’a. Język ten został stworzony w 2004 r. a jego twórcami byli John Gruber i Aaron Swartz. W kolejnych latach podjęto prace w celu stworzenia standardu rozwiązania i tak w 2016 r. opublikowano dokument <u>RFC 7764</u> który zawiera opis kilku odmian tegoż języka:
+* CommonMark,
+
+* GitHub Flavored Markdown (GFM),
+
+* Markdown Extra.
+
+
