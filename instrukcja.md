@@ -121,3 +121,5 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 ![alt text](https://server.com/images/icon48.png "Logo 1") – obrazek z zasobów internetowych
 ![](logo.png) – obraz z lokalnych zasobów
 ```
+### Kod źródłowy dla różnych języków programowania
+![Kod źródłowy w markdown](kod%20źródłowy.jpg)
