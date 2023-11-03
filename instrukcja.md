@@ -40,3 +40,5 @@ Przykład kodu Latex i wygenerowanego pliku w formacie pdf
 \end{letter}
 \end{document}
 ```
+![Wygenerowany plik pdf - Latex](Latex.jpg)
+
