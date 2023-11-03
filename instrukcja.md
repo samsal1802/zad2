@@ -99,3 +99,8 @@ Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 ![Listy w Markdown](listy.jpg)
 
 Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką. Listy nienumerowane definiujemy znakami: *,+,-
+
+## Wyróżnianie tekstu
+
+![Wyróżnianie tekstu w Markdown](wyróżnianie%20tekstu.jpg)
+
