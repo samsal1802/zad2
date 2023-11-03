@@ -137,3 +137,20 @@ Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w
 3.	Visual Studio Code z wtyczką „markdown preview”
 
 ![Edytor dedykowany](edytor%20dedykowany.jpg)
+
+## Pandoc – system do konwersji dokumentów Markdown do innych formatów
+Jest oprogramowanie typu open source służące do konwertowania dokumentów pomiędzy różnymi formatami.
+
+Pod poniższym linkiem można obejrzeć przykłady użycia: 
+
+https://pandoc.org/demos.html
+
+Oprogramowanie to można pobrać z spod adresu: https://pandoc.org/installing.html
+
+Jeżeli chcemy konwertować do formatu latex i pdf trzeba doinstalować oprogramowanie składu Latex (np. Na windows najlepiej sprawdzi się Miktex https://miktex.org/)
+
+Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości znalezienia programu pdflatex rozwiązaniem jest wskazanie w zmiennej środowiskowej PATH miejsca jego położenia
+
+![Właściwości systemu](właściwości%20systemu.png)
+![Zmienne środowiskowe](zmienne%20środowiskowe.png)
+![Edycja zmiennej środowiskowej](edycja%20zmiennej%20środowiskowej.png)
