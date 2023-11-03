@@ -104,3 +104,7 @@ Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kr
 
 ![Wyróżnianie tekstu w Markdown](wyróżnianie%20tekstu.jpg)
 
+## Tabele
+
+![Tabele w Markdown](tabele.png)
+Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
