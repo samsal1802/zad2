@@ -24,4 +24,19 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 ```
 ![Przykład kodu html na stronie internetowej](html.jpg)
 
-
+Przykład kodu Latex i wygenerowanego pliku w formacie pdf
+```Latex
+\documentclass[]{letter}
+\usepackage{lipsum}
+\usepackage{polyglossia}
+\setmainlanguage{polish}
+\begin{document}
+\begin{letter}{Szanowny Panie XY}
+\address{Adres do korespondencji}
+\opening{}
+\lipsum[2]
+\signature{Nadawca}
+\closing{Pozdrawiam}
+\end{letter}
+\end{document}
+```
