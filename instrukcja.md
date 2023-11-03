@@ -84,27 +84,29 @@ Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składn
 
 * Markdown Extra.
 
-## Podstawa składni
+## Podstawy składni
 Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki opis w języku polskim.
 
-## Definowanie nagłówków
+### Definowanie nagłówków
 W tym celu używamy znaku kratki
 
 Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 
 ![Nagłówki w Markdown](nagłówki.jpg)
 
-## Definowanie list
+### Definowanie list
 
 ![Listy w Markdown](listy.jpg)
 
 Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką. Listy nienumerowane definiujemy znakami: *,+,-
 
-## Wyróżnianie tekstu
+### Wyróżnianie tekstu
 
 ![Wyróżnianie tekstu w Markdown](wyróżnianie%20tekstu.jpg)
 
-## Tabele
+### Tabele
 
 ![Tabele w Markdown](tabele.png)
 Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
+
+### Odnośnik do zasobów
