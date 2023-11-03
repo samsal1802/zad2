@@ -154,3 +154,8 @@ Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości
 ![Właściwości systemu](właściwości%20systemu.png)
 ![Zmienne środowiskowe](zmienne%20środowiskowe.png)
 ![Edycja zmiennej środowiskowej](edycja%20zmiennej%20środowiskowej.png)
+
+Pod adresem (https://gitlab.com/mniewins66/templatemn.git) znajduje się przykładowy plik Markdown z którego można wygenerować prezentację w formacie pdf wykorzystując klasę latexa beamer.
+W tym celu należy wydać polecenie z poziomu terminala:
+
+$pandoc templateMN.md -t beamer -o prezentacja.pdf
