@@ -123,3 +123,7 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 ```
 ### Kod źródłowy dla różnych języków programowania
 ![Kod źródłowy w markdown](kod%20źródłowy.jpg)
+
+### Tworzenie spisu treści na podstawie nagłówków
+
+![Tworzenie spisu treści w markdown](Tworzenie%20spisu%20treści.jpg)
