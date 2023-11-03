@@ -22,4 +22,6 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 </body>
 </html>
 ```
+![Przykład kodu html na stronie internetowej](html.jpg)
+
 
