@@ -1,5 +1,22 @@
 # Lekcja 1 – Markdown lekki język znaczników
 
+## Spis treści
+- [Lekcja 1 – Markdown lekki język znaczników](#lekcja-1--markdown-lekki-język-znaczników)
+  - [Spis treści](#spis-treści)
+  - [Wstęp](#wstęp)
+  - [Podstawy składni](#podstawy-składni)
+    - [Definowanie nagłówków](#definowanie-nagłówków)
+    - [Definowanie list](#definowanie-list)
+    - [Wyróżnianie tekstu](#wyróżnianie-tekstu)
+    - [Tabele](#tabele)
+    - [Odnośniki do zasobów](#odnośniki-do-zasobów)
+    - [Obrazki](#obrazki)
+    - [Kod źródłowy dla różnych języków programowania](#kod-źródłowy-dla-różnych-języków-programowania)
+    - [Tworzenie spisu treści na podstawie nagłówków](#tworzenie-spisu-treści-na-podstawie-nagłówków)
+  - [Edytory dedykowane](#edytory-dedykowane)
+  - [Pandoc – system do konwersji dokumentów Markdown do innych formatów](#pandoc--system-do-konwersji-dokumentów-markdown-do-innych-formatów)
+
+
 ## Wstęp
 Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania dodatkowych informacji umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można wspomnieć o:
 1.	**html** – służącym do opisu struktury informacji zawartych na stronach internetowych,
@@ -156,6 +173,7 @@ Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości
 ![Edycja zmiennej środowiskowej](edycja%20zmiennej%20środowiskowej.png)
 
 Pod adresem (https://gitlab.com/mniewins66/templatemn.git) znajduje się przykładowy plik Markdown z którego można wygenerować prezentację w formacie pdf wykorzystując klasę latexa beamer.
+
 W tym celu należy wydać polecenie z poziomu terminala:
 
 $pandoc templateMN.md -t beamer -o prezentacja.pdf
